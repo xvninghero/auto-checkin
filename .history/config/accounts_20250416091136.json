@@ -1,0 +1,18 @@
+{
+  "changtai": [
+    {
+      "name": "xuning",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDQxNzcyMzAsIm5iZiI6MTc0NDE3NzIzMCwiZXhwIjoxNzU5NzI5MjMwLCJkYXRhIjp7Im1lbWJlcl9pZCI6MTc0ODk1OSwic2Vzc2lvbl9rZXkiOiJyWDVXWnVUS1VMXC9ZOUVCdno5MzhsQT09In19.vjOPueB4q8dPwpOJx9KcExJpFZdw-0souNS6g_kCjsU"
+    }
+  ],
+  "lalaport": [
+    {
+      "name": "张三",
+      "openId": "oHFYW5MHocGxOd7qfgvYisTD6ENw"
+    },
+    {
+      "name": "李四",
+      "openId": "another_open_id"
+    }
+  ]
+}

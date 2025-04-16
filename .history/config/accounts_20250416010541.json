@@ -1,0 +1,18 @@
+{
+  "changtai": [
+    {
+      "name": "账号A",
+      "token": "eyJ0eXAiOiJKV1QiLCJh..."
+    }
+  ],
+  "lalaport": [
+    {
+      "name": "张三",
+      "openId": "oHFYW5MHocGxOd7qfgvYisTD6ENw"
+    },
+    {
+      "name": "李四",
+      "openId": "another_open_id"
+    }
+  ]
+}
