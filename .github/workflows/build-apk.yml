@@ -3,7 +3,7 @@ name: Build APK
 on:
   push:
     branches:
-      - main
+      - main   # 确保你推送到的是 main 分支
 
 jobs:
   build:
